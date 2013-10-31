@@ -2,7 +2,7 @@
 
 CalDAV Sync Adapter for Android
 
-See wiki for more information and server compatibility list (https://github.com/gggard/AndroidCaldavSyncAdapater/wiki)
+See wiki for more information and server compatibility list (https://github.com/haydara/WeSAllCalendarSyncAdapater/wiki)
 
 ## Building the project
 
